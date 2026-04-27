@@ -24,6 +24,6 @@
 
 ###  Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/priyanshu-singh-iitp)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:itx.priyanshurajpoot1708@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)](www.linkedin.com/in/priyanshu-singh-iitp/)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge)](mailto:priyanshurajpoot1708@gmail.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=priyanshu-iitp&color=blue)
